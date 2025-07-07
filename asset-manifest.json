@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/cardclient/static/js/main.dc73d45e.js",
+    "index.html": "/cardclient/index.html",
+    "main.dc73d45e.js.map": "/cardclient/static/js/main.dc73d45e.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.dc73d45e.js"
+  ]
+}
